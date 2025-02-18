@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/ResidentOrganization.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/utilities/Reporting.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/UserAccount.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/studenthousing/StudentHousing.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/AgentRole.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/ui/BuildingManagerDashboardPanel.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/ui/AgentDashboardPanel.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/ResidentRole.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/ApartmentBookingRequest.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/ui/ResidentDashboardPanel.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/RealEstateOrganization.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/ui/RoleDashboardPanel.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/CarpenterOrganization.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/PlumberRole.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/ElectricalOrganization.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/ElectricianRole.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/CarpenterRole.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/AmenityBookingRequest.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/Network.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/Organization.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/BuildingManagement.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/Roles.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/PlumberOrganization.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/ResidentAssociation.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/WorkRequest.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/MaintenanceRequest.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/Enterprise.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/PestControlRole.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/PestControlOrganization.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/RealEstateAgency.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/CustomerEnterprise.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/ui/WorkRequestPanel.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/utilities/Validator.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/models/BuildingManagerRole.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/ui/LoginPanel.java</file>
+            <file>file:/Users/nidhinair/personal_project/StudentHousing/src/utilities/UniqueIdGenerator.java</file>
+        </group>
+    </open-files>
+</project-private>
